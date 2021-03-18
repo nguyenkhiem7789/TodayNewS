@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.4.1)
+  - Masonry (1.1.0)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - WMPageController (2.5.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Masonry
+  - SDWebImage
+  - WMPageController
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Masonry
+    - SDWebImage
+    - WMPageController
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  WMPageController: 0c7624d2b48e4f1ab92371688cf6744ed701575d
+
+PODFILE CHECKSUM: 29979ad4350543c1b99531c61dac83a7c5309d16
+
+COCOAPODS: 1.10.0
